@@ -1,5 +1,10 @@
 <h2 align="left">Greetings 👋! My name is Forest Chu and I'm a Student in NKUST, from Koahsiung, Taiwan.</h2>
 
+
+### 嗨嗨 我的名字叫朱晉瑭，來自高雄，就讀高科大要被掛了:skull:
+#### ¡Saludos~! Soy Forest Chu y actualmente soy un estudiante de Koahsiung, Taiwan. Mucho gusto en conocerte.:heart:
+##### はじめまして～! 私は森 :evergreen_tree: 朱と申します。現在、台湾の高雄から来た学生です。よろしくお願いします。:martial_arts_uniform:
+
 > ### Poor life gaymer/artist, Overdosed Overwatch Doomfist Abuser, sleeping :pig:
 <img align="right" height="150" src="https://c.tenor.com/k78xrkSTJaAAAAAd/robot-doom-fist-dance.gif"  />
 https://github.com/RavenBeastBoy
