@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Forest Chu and I'm a Student in NKUST, from Koahsiung, Taiwan.</h2>
+<h2 align="left">Greetings 👋! My name is Forest Chu and I'm a Student in NKUST, from Koahsiung, Taiwan.</h2>
 
 > ### Poor life gaymer/artist, Overdosed Overwatch Doomfist Abuser, sleeping :pig:
 <img align="right" height="150" src="https://c.tenor.com/k78xrkSTJaAAAAAd/robot-doom-fist-dance.gif"  />
