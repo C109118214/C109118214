@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Forest Chu and I'm a Student in NKUST, from Koahsiung, Taiwan.</h2>
 https://github.com/RavenBeastBoy
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=C109118214" height="150" alt="stats graph"  />
@@ -51,9 +50,7 @@ https://github.com/RavenBeastBoy
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/C109118214/C109118214/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 https://github.com/RavenBeastBoy
